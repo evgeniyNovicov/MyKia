@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'KIA';
+    src: url('KIAL.eot');
+    src: local('KIA Light'), local('KIAL'),
+        url('KIAL.eot?#iefix') format('embedded-opentype'),
+        url('KIAL.woff2') format('woff2'),
+        url('KIAL.woff') format('woff'),
+        url('KIAL.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'KIA';
+    src: url('KIAM.eot');
+    src: local('KIA Medium'), local('KIAM'),
+        url('KIAM.eot?#iefix') format('embedded-opentype'),
+        url('KIAM.woff2') format('woff2'),
+        url('KIAM.woff') format('woff'),
+        url('KIAM.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'KIA';
+    src: url('KIAB.eot');
+    src: local('KIA Bold'), local('KIAB'),
+        url('KIAB.eot?#iefix') format('embedded-opentype'),
+        url('KIAB.woff2') format('woff2'),
+        url('KIAB.woff') format('woff'),
+        url('KIAB.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
