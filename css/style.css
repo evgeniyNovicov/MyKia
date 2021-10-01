@@ -1014,7 +1014,7 @@ label .block{
 }
 
 .compare-models__item-body.active{
-    padding: 20px 50px 20px 20px;
+    padding: 20px 50px 15px 20px;
 }
 
 .arrow-next.active{
